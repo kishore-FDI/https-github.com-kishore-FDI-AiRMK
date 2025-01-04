@@ -1,0 +1,32 @@
+{
+    "subjectCodes": [
+        {
+            "subjectCode": "General",
+            "title": "General"
+        },
+        {
+            "subjectCode": "22EC601",
+            "title": "Digital Signal Processing"
+        },
+        {
+            "subjectCode": "22EC602",
+            "title": "Embedded Systems and Iot Design"
+        },
+        {
+            "subjectCode": "22EC981",
+            "title": "Embedded Systems and Iot Design"
+        },
+        {
+            "subjectCode": "22EC913",
+            "title": "Embedded Systems and Iot Design"
+        },        
+        {
+            "subjectCode": "22EC919",
+            "title": "Embedded Systems and Iot Design"
+        },        
+        {
+            "subjectCode": "22CS002",
+            "title": "Embedded Systems and Iot Design"
+        }
+    ]
+}
