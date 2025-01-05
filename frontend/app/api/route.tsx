@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const BACKEND_URL = 'https://portfoliobackend-ubbd.onrender.com';
+const BACKEND_URL = 'https://airmk.onrender.com';
 
 export async function POST(req:any) {
   try {
